@@ -1,6 +1,6 @@
 # SublimeText3Setup
 
-##Layout
+## Layout
 On Linux save the file `Main.sublime-menu` in
 `~/.config/sublime-text-3/Packages/User/Main.sublime-menu`
 ```json
@@ -87,7 +87,7 @@ On Linux save the file `Main.sublime-menu` in
 }]
 ```
 
-##Key bindings
+## Key bindings
 ```json
 [
     {
