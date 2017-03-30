@@ -130,4 +130,36 @@ On Linux save the file `Main.sublime-menu` in
 ]
 ```
 
-
+## User Settings
+```json
+{
+    "always_show_minimap_viewport": true,
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/User/SublimeLinter/Material One Dark (SL).tmTheme",
+    "font_face": "menlo",
+    "font_options":
+    [
+        "gray_antialias",
+        "subpixel_antialias"
+    ],
+    "font_size": 15,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom": 3,
+    "line_padding_top": 3,
+    "material_theme_big_fileicons": true,
+    "material_theme_bold_tab": true,
+    "material_theme_bright_scrollbars": true,
+    "material_theme_small_statusbar": true,
+    "material_theme_tree_headings": true,
+    "overlay_scroll_bars": "enabled",
+    "theme": "Material-Theme-Darker.sublime-theme"
+}
+```
